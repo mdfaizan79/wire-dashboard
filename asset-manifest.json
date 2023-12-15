@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wire-dashboard/static/css/main.073c9b0a.css",
+    "main.js": "/wire-dashboard/static/js/main.f8baacab.js",
+    "static/js/787.b814c438.chunk.js": "/wire-dashboard/static/js/787.b814c438.chunk.js",
+    "static/media/wire-logo.png": "/wire-dashboard/static/media/wire-logo.dd0c02c6036b3c1d21bf.png",
+    "static/media/logo.svg": "/wire-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wire-dashboard/index.html",
+    "main.073c9b0a.css.map": "/wire-dashboard/static/css/main.073c9b0a.css.map",
+    "main.f8baacab.js.map": "/wire-dashboard/static/js/main.f8baacab.js.map",
+    "787.b814c438.chunk.js.map": "/wire-dashboard/static/js/787.b814c438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f8baacab.js"
+  ]
+}
